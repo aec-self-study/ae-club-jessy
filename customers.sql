@@ -16,3 +16,5 @@ left join orders_agg
 on customers.id = orders_agg.customer_id
 order by first_order_at
 limit 5;
+/*person A adding a comment to test merge*/
+
